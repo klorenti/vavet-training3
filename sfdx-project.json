@@ -1,0 +1,25 @@
+{
+    "packageDirectories": [
+        {
+            "path": "sfdx-source/unpackaged",
+            "default": false
+        },
+        {
+            "path": "sfdx-source/untracked",
+            "default": false
+        },
+        {
+            "path": "sfdx-source/vavet-training3",
+            "default": true,
+            "package": "vavet-training3",
+            "versionName": "ver 1.0",
+            "versionNumber": "1.0.0.NEXT"
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "50.0",
+    "packageAliases": {
+        "vavet-training3": ""
+    }
+}
